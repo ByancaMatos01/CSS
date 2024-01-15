@@ -1,0 +1,20 @@
+ body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        p {
+            color: #333;
+            font-size: 1.2em;
+            line-height: 1.5;
+            margin: 20px;
+        }
